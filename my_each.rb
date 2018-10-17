@@ -1,5 +1,5 @@
 def my_each
   while true
-    puts hi
+     hi
   end
 end
