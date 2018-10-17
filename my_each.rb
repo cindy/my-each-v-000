@@ -1,5 +1,6 @@
 def my_each(words)
-  while true
-     hi
+  while words.size > 0
+     word = words.pop
   end
+  word
 end
