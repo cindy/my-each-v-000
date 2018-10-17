@@ -1,6 +1,6 @@
 def my_each(words)
   while words.size > 0
-    yield words.pop
+    yield words.shift
   end
   words
 end
